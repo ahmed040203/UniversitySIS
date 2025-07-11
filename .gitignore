@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# EF Core
+Migrations/*Snapshot.cs
+
+# Visual Studio Code
+.vscode/
+
+# Angular
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
